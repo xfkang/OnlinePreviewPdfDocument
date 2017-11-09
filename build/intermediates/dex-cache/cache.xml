@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_c6a0d087d00e3c803daf4aced79c7883763cdcbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_2b79eeda22eced2f93d042ae14654ca6e918547a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_d188756372af898636c674094916e28c1bbacad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_0a94576d55dfd36661d89e43a7ed95e4a4326829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_81e419bc188e32f2bb8a6bd0f0fb079b6cabfc4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_cc823dd4c0389f51209025d1afcb23797066099c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_1190ca306231b7b776c4817f6b6668d913dacc11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_a25ae8b789f3e2070238975d669921f7f827df84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_7e96108dfad83cc279b6bb2d23697d70de4aeb27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\software\eclipse\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\Github\OnlinePreviewPdfDocument\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_718e0cae2f0f6cac16ec317b5e0b7edcf48889d6.jar" />
+    </item>
+
+</items>
